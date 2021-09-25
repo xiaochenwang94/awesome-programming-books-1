@@ -144,6 +144,7 @@
 
 - [《算法（第4版）》](./Algorithms/算法（第4版）.pdf)
 - [《算法导论（第2版）》](./Algorithms/算法导论（第2版）.pdf)
+- 《算法导论（第3版） 链接:https://pan.baidu.com/s/1E0oCWye2uE57m-SFrYZdrw  密码:vpvs (超过100M无法上传)
 - [《算法设计与分析（第3版）》](./Algorithms/算法设计与分析（第3版）.pdf)
 - [《算法心得：高效算法的奥秘（第2版）》](./Algorithms/算法心得：高效算法的奥秘（第2版）.pdf)
 - [《数据结构与算法分析：C语言描述（第2版）》](./Algorithms/数据结构与算法分析：C语言描述（第2版）.pdf)
